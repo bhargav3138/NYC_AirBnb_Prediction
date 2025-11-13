@@ -1,0 +1,8 @@
+backend/
+ml_models/
+*.py
+requirements.txt
+Dockerfile
+docker-compose.yml
+start_backend.sh
+BACKEND_SETUP.md
