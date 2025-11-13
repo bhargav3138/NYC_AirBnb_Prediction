@@ -191,4 +191,3 @@ For issues or questions, please open an issue in the repository or contact the d
 ---
 
 **Built with machine learning and modern web technologies** to help hosts optimize their Airbnb listings in New York City.
-# NYC_AirBnb_Prediction
